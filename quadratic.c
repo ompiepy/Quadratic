@@ -14,7 +14,7 @@ int main()
 {
     int a, b, c;
     float disc, X1, X2;
-    start:
+    start:  // better to make function
     printf("Enter coefficient a: \n");
     scanf("%d", &a);
     printf("Enter coefficient b: \n");
